@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Python
+Python
+Python
+Python
 
 <!---
 Samichekireb19/Samichekireb19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
